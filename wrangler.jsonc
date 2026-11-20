@@ -1,0 +1,16 @@
+{
+  "name": "codexbykrish",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-19",
+  "vars": {
+    "B2_ENDPOINT": "s3.us-east-005.backblazeb2.com",
+    "B2_BUCKET": "codexbykrish"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "codexbykrish",
+      "database_id": "e74564a2-7179-4b45-ba61-3ec758f64ba7"
+    }
+  ]
+}
